@@ -1,3 +1,5 @@
+Coffee app to help NYers find good coffee 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
