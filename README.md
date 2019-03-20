@@ -1,5 +1,7 @@
 Coffee app to help NYers find good coffee 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/50154d82-66a4-4413-ae55-2d9a65e06944/deploy-status)](https://app.netlify.com/sites/pedantic-wing-59b061/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
